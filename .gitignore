@@ -1,0 +1,47 @@
+# Compiled object files
+*.o
+
+# Compiled static and shared libraries
+*.a
+*.so
+*.so.*
+*.dylib
+
+# Executables (common names)
+a.out
+*.exe
+
+# Debug / profiling files
+*.gch
+*.gcda
+*.gcno
+*.gcov
+
+# Precompiled headers
+*.pch
+
+# Dependency files
+*.d
+
+# Build directories
+/build/
+/bin/
+/obj/
+
+# Editor/IDE files
+*.swp
+*.swo
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# CLion / JetBrains
+.idea/
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
