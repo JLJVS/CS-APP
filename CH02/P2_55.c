@@ -1,3 +1,4 @@
+/* Official solution*/
 /* $begin show-bytes */
 #include <stdio.h>
 #include <string.h>
